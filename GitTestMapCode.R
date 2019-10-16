@@ -1,4 +1,4 @@
-
+#aurora edits 101619
 library(ggmap)
 library(maps)
 library(mapdata)
