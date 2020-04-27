@@ -1,4 +1,4 @@
-#aurora edits 101619
+#adding code on april 2020- MW
 library(ggmap)
 library(maps)
 library(mapdata)
@@ -12,4 +12,5 @@ ggplot(data = CA) +
 ggplot(data = CA) + 
   geom_point(aes(x = long, y = lat))+
   theme_classic()
+
 
